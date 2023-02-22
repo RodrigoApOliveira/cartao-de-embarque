@@ -67,6 +67,7 @@ section {
 }
 
 #boarding-pass {
+  max-width: 32.7rem;
   margin: auto;
 }
 
